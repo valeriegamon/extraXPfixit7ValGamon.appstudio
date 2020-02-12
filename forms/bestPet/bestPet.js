@@ -11,11 +11,11 @@ let replacedPetWithHamster2 = replacedPetWithHamster.replace("Dog", "Hamster");
 //alert(replacedPetWithHamster2);
 
 //all lowercase = many
-let replacedPetWithHamster3 = replacedPetWithHamster.replace("dogs", "hamsters");
+let replacedPetWithHamster3 = replacedPetWithHamster2.replace("dogs", "hamsters");
 //alert(replacedPetWithHamster3);
 
 //Uppercase = many
-let replacedPetWithHamster4 = replacedPetWithHamster.replace("Dogs", "Hamsters");
+let replacedPetWithHamster4 = replacedPetWithHamster3.replace("Dogs", "Hamsters");
 alert(replacedPetWithHamster4);
 
 
