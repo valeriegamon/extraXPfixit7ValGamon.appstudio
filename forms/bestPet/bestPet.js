@@ -18,4 +18,3 @@ let replacedPetWithHamster3 = replacedPetWithHamster2.replace("dogs", "hamsters"
 let replacedPetWithHamster4 = replacedPetWithHamster3.replace("Dogs", "Hamsters");
 alert(replacedPetWithHamster4);
 
-
