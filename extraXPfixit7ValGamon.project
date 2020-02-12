@@ -21,6 +21,14 @@
             "bestPet",
             "bestPet.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "split",
+            "split.json"
+          ]
         }
       ],
       "configxml": null,
